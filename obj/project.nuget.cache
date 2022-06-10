@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "VwfWchixu7beWlesoss7t8/UjnCOgXBM2gS6L2EnYcacPbErM6urB0WnBkzczJjrXNlyQ0duDqISpn2PiuFkfg==",
+  "success": true,
+  "projectFilePath": "C:\\CsharpParse\\parsing_C_Sharp\\parsing_C_Sharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dxasa\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\dxasa\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512",
+    "C:\\Users\\dxasa\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\dxasa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\dxasa\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
